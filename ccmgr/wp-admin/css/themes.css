@@ -1730,10 +1730,3 @@ body.full-overlay-active {
 		padding: 0;
 	}
 }
-
-
-/*override*/
-
-section.home-section {
-	padding :0 !important;
-}

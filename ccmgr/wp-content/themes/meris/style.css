@@ -760,6 +760,8 @@ section[class^="homepage-section-"]
 section.home-section{
 	/*padding: 50px 0;*/
 }
+
+
 section .widget{
 	width:100%;
 	clear:both;
